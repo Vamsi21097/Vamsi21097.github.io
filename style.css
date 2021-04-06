@@ -1,12 +1,12 @@
 
  /* Common */
- .home {position: relative;top: 30px; left: 20px;border: none;color: rgb(0, 0, 0);padding: 15px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;top: 0px; }
+ .index {position: relative;top: 30px; left: 20px;border: none;color: rgb(0, 0, 0);padding: 15px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;top: 0px; }
  .helio300 {position: relative;top: 30px; left: 80px;border: none;color: rgb(0, 0, 0);padding: 15px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;top: 0px }
  .helio500 {position: relative;top: 30px; left: 140px;border: none;color: rgb(0, 0, 0);padding: 15px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;top: 0px }
  .helio700 {position: relative;top: 30px; left: 200px;border: none;color: rgb(0, 0, 0);padding: 15px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;top: 0px }
  .compare{position: relative;top: 30px; left: 260px;border: none;color: rgb(0, 0, 0);padding: 15px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;top: 0px ; }     
- .home:hover {background-color:#ffaf04;box-shadow: 0 9px rgb(255, 0, 0) }
-  .home:active {background-color: #ffaf04;box-shadow: 0 5px #666;transform: translateY(4px);}
+ .index:hover {background-color:#ffaf04;box-shadow: 0 9px rgb(255, 0, 0) }
+  .index:active {background-color: #ffaf04;box-shadow: 0 5px #666;transform: translateY(4px);}
   .helio300:hover {background-color:#ffaf04;box-shadow: 0 9px rgb(255, 0, 0) }
   .helio300:active {background-color: #ffaf04;box-shadow: 0 5px #666;transform: translateY(4px);}
   .helio500:hover {background-color:#ffaf04;box-shadow: 0 9px rgb(255, 0, 0)}
